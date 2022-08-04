@@ -1,0 +1,19 @@
+ .card {
+    max-width: 18rem;
+    margin: 0.5rem 1.5rem;
+    border-radius: 30px;
+    filter:drop-shadow(5px 5px 10px black);
+}
+
+blockquote {
+    padding: 1rem 5rem;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+h1 {
+    padding: 1.5rem 0;
+}
+
+main {
+    background-image: url("https://jovenesaprogramar.edu.uy/themes/theme-ceibal/assets/img/ilu-home-1.png");
+}
