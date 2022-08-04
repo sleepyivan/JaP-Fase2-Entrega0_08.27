@@ -29,6 +29,8 @@ GitHub está pensado para la colaboración y el trabajo en equipo. Vamos a proba
 **Step** :one: Clone repository to your local machine
 
 ``` git clone https://github.com/sleepyivan/JaP-Fase2-Entrega0_08.27 ```
+Get into the folder
+``` cd JaP-Fase2-Entrega0_08.27 ```
 
 **Step** :two: Make changes
 
