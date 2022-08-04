@@ -49,11 +49,7 @@ GitHub está pensado para la colaboración y el trabajo en equipo. Vamos a proba
 
 ``` git pull ```
 
-2. Accept the change
-
-``` git commit ```
-
-3. Resolve the conflict and star from _Step 3 & 4_
+2. Resolve the conflict and star from _Step 2&3&4_
 
 ## About the simple html page
 
