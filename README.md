@@ -17,9 +17,9 @@ GitHub está pensado para la colaboración y el trabajo en equipo. Vamos a proba
 
 ## :wave: Credits / Member of the team
  * Jianan E | [:e-mail: Email](ejianan.jlu@gmail.com) | [:octocat: GitHub](https://github.com/sleepyivan/JaP-Fase2-Entrega0_08.27/) 
- * P1  | [:e-mail: Email]() | [:octocat: GitHub]() 
- * P2  | [:e-mail: Email]() | [:octocat: GitHub]() 
- * P3  | [:e-mail: Email]() | [:octocat: GitHub]() 
+ * Camilo Otriz  | [:e-mail: Email](Onahuel2002@gmail.com) | [:octocat: GitHub]() 
+ * Claudio Maciel | [:e-mail: Email](claumaciel96@gmail.com) | [:octocat: GitHub]() 
+ * Gabriel Pascale | [:e-mail: Email](gabipascale8@gmail.com) | [:octocat: GitHub]() 
 
 
 ## How to start?
@@ -32,27 +32,27 @@ GitHub está pensado para la colaboración y el trabajo en equipo. Vamos a proba
 
 **Step** :two: Make changes
 
-``` git ```
+``` git add file_changed```
 
 **Step** :three: Commit
 
-``` git ```
+``` git commit -m "your message" ```
 
 **Step** :four: Push to the repository
 
-``` git ```
+``` git push ```
 
 :interrobang: **If there is a conflict?**
 
 1. Pull from the sever keep update
 
-``` git ```
+``` git pull ```
 
-2. Merge the conflict
+2. Accept the change
 
-``` git ```
+``` git commit ```
 
-3. Resolve the conflict and star from _Step 3_
+3. Resolve the conflict and star from _Step 3 & 4_
 
 ## About the simple html page
 
