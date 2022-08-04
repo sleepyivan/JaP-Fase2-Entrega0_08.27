@@ -19,7 +19,6 @@ GitHub está pensado para la colaboración y el trabajo en equipo. Vamos a proba
  * Jianan E | [:e-mail: Email](ejianan.jlu@gmail.com) | [:octocat: GitHub](https://github.com/sleepyivan/JaP-Fase2-Entrega0_08.27/) 
  * Camilo Otriz  | [:e-mail: Email](Onahuel2002@gmail.com) | [:octocat: GitHub]() 
  * Claudio Maciel | [:e-mail: Email](claumaciel96@gmail.com) | [:octocat: GitHub]() 
- * Gabriel Pascale | [:e-mail: Email](gabipascale8@gmail.com) | [:octocat: GitHub]() 
  * Federico Demczylo | [:e-mail: Email](fdemczylo@gmail.com) | [:octocat: GitHub]() 
 
 
